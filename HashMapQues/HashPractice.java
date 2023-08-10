@@ -113,4 +113,5 @@ public static void main(String[] args) {
         map.put(sum, 1);
     }}
     System.out.println(ans);
+    System.out.println();
 }}
